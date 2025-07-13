@@ -1,3 +1,4 @@
+// Program to Count Vowels and Consonants
 %{
 int vowel = 0, consonant = 0;
 %}
